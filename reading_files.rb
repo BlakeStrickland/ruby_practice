@@ -1,3 +1,6 @@
+require "csv"
+
+
 def return_array_from_file file
   data = []
   File.open(file, "r") do |f|
@@ -8,13 +11,18 @@ def return_array_from_file file
   data
 end
 
+def clean_data data
+  csv = data.to_csv( row_sep: nil )
+  csv.gsub! /\n/, ''
+  csv.gsub! /,"",/, ' + '
+
+  cleaned_data = csv.split(" + ")
+end
+
 tech_data = return_array_from_file("nms_data/nms_technology.txt")
 energy_data = return_array_from_file("nms_data/nms_energy_sources.txt")
 
-# all_data.each do |line|
-#   line = line.gsub(/\n/, '')
-# end
+cleaned_data = clean_data(tech_data)
 
-puts "Tech Data: \n #{tech_data} \n\n\n\n\n"
 
-puts "Energy Data: \n #{energy_data} \n\n\n\n\n"
+puts cleaned_data
