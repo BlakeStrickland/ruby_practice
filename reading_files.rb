@@ -1,6 +1,5 @@
 require "csv"
 
-
 def return_array_from_file file
   data = []
   File.open(file, "r") do |f|
@@ -21,8 +20,8 @@ end
 
 tech_data = return_array_from_file("nms_data/nms_technology.txt")
 energy_data = return_array_from_file("nms_data/nms_energy_sources.txt")
-
-cleaned_data = clean_data(tech_data)
+element_data = return_array_from_file("nms_data/nms_elements.txt")
+cleaned_data = clean_data(element_data)
 
 
 puts cleaned_data

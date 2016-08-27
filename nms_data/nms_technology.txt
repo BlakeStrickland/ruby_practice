@@ -1,3 +1,5 @@
+Name  Base Cost How to Get (or Recipe)
+
 Carite Sheet	825	Iron x 50
 
 Microdensity Fabric	1650	Iron x 50 Platinum x 10

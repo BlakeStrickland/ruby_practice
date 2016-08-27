@@ -1,3 +1,5 @@
+Name  Base Cost How to Get (or Recipe)
+
 Shielding Shard	343.8	Iron x 25
 
 Shielding Plate	687.5	Iron x 50
