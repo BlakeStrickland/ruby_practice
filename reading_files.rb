@@ -1,17 +1,15 @@
-tech_data = []
-File.open("nms_data/nms_technology.txt", "r") do |f|
-  f.each_line do |line|
-     tech_data << line
+def return_array_from_file file
+  data = []
+  File.open(file, "r") do |f|
+    f.each_line do |line|
+       data << line
+    end
   end
+  data
 end
 
-energy_data = []
-File.open("nms_data/nms_technology.txt", "r") do |f|
-  f.each_line do |line|
-     energy_data << line
-  end
-end
-
+tech_data = return_array_from_file("nms_data/nms_technology.txt")
+energy_data = return_array_from_file("nms_data/nms_energy_sources.txt")
 
 # all_data.each do |line|
 #   line = line.gsub(/\n/, '')
