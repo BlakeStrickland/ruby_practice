@@ -1,0 +1,462 @@
+Elements and Resources[edit]
+This table has elements and other resources such as alloys.
+
+
+Name	Base Cost	How to Get (or Recipe)
+Oxide	YELLOW on scanner
+Iron	13.8	Rocks
+Asteroids
+Zinc	41.3	Yellow Plants
+Titanium	61.9	Crystals
+Sentinels
+Refineries
+Silicate	BLUE on scanner
+Heridium	27.5	Rocks
+Platinum	55	Blue Plants
+Refineries
+Chrysonite	82.5	Crystals
+Isotope	RED on scanner
+Carbon	6.9	All Flora
+Thamium9	20.6	Flowers
+Asteroids
+Plutonium	41.3	Crystals
+Neutral	GREY on scanner
+Nickel	137.5	Rocks
+Asteroids
+Iridium	96.3	Rocks
+Asteroids
+Copper	110	Floating Rocks
+Asteroids
+Gold	220	Crystals
+Rocks
+Asteroids
+Aluminium	165	Crystals
+Rocks
+Asteroids
+Emeril	275	Crystals
+Rocks
+Asteroids
+Precious GREEN on scanner
+Omegon	309.4	Feeding Animals
+dismanting crashed ships
+big trading stations
+red pillars on planets
+Radnox	302.5	Small Rocks - Can be floating
+Murrine	302.5	Plants
+Small Spherical Rock
+Calium	288.8	Orb Rocks
+Plants
+pulsing gooshy sacs on toxic/radioactive planets
+
+
+Alloys
+Aronium	1546	Iron x 50
+Carbon x 50
+Crolium	35378	Chrysonite x 80
+Iridium x 100
+Grantine	35646	Iridium x 150
+Copper x 50
+Aronium x 1
+Herox	2887	Zinc x 20
+Plutonium x 20
+Lemmium	30937	Plutonium x 200
+100 Titanium
+Magmox	30030	Carbon x 30
+Thamium9 x 300
+Plutonium x 300
+Terumin	39105	Emeril x 40
+Alumium x 40
+Herox x 1
+
+
+Components and Energy[edit]
+This section includes technology components as well as energy components which are needed to recharge and refuel the various technnologies.
+
+
+Name	Base Cost	How to Get (or Recipe)
+Technology Components
+Carite Sheet	825	Iron x 50
+Microdensity Fabric	1650	Iron x 50
+Platinum x 10
+Electron Vapour	4950	Suspension x 1
+Plutonium x 100
+Suspension Fluid	1100	Carbon x 50
+Antimatter	5232	Electron vapour x 1
+Heridium x 50
+Zinc x 20
+Dynamic Resonator	27500	Antimatter x 2
+Chrysonite x 100
+Microdenisty Fabric x 4
+Night Crystals	35000	Market
+Energy sources
+Shielding Shard	343.8	Iron x 25
+Shielding Plate	687.5	Iron x 50
+Shielding Sheet	1,0311	Iron x 75
+Power Gel	171.9	Carbon x 25
+Power Canister	343.8	Carbon x 50
+Power Reservoir	515,6	Carbon x 75
+Unstable Plasma	27500	Thamium9 x 400
+Plutonium x 200
+Warp Cell	46750	Thamium9 x 100
+Antimatter x 1
+
+
+Trading and Curiosities[edit]
+This table has items used primarily for trading, including commodities and curiosities. Some items may have other uses or be required for certain blueprints, so check the item's page before selling it
+
+
+Name	Base Cost	How to Get (or Recipe)
+Trade Commodities
+Vy'keen Dagger	20625	Bought in market
+Korvax Convergence cube	25500	Bought in market
+found in cargo drops
+Korvax Casing	27000	Obtained through interface in Shelters
+Gravitino Ball	25000	Rare
+found on high security planets
+Also in weird plants hidden from scans
+3 star wanted level if collected
+GREEN on scanner
+Dimensional Matrix	15125	Found by scavenging debris
+destroying ships
+Grahgrah	13750	Obtained through interfaces - Puzzles
+Bought in market
+cargo drops
+killing quadruped sentinels
+Neutrino Module	13750	Found by scavenging debris
+destroying sentinels
+Fascination Bead	12375	Cargo drops
+Bought in market
+GekNip	20625	Found in cargo drops
+Bought in market
+Gek Charm	11000	Found in cargo drops
+Bought in market
+Vortex Cube	34725.1	Rarely on cave floor.
+Rare surface structure
+Underground
+3 star wanted level if collected
+GREEN on scanner
+Sac Venom	26125	Rare surface plants
+3 star wanted level if destroyed
+GREEN on scanner
+Albumen Pearl	27496	Rare cave plants
+slso above ground in weird alien oyster pods
+found planets with high hazard
+3 star wanted level if collected
+GREEN on scanner
+AquaSphere	32375	Rare
+found in hazardous conditions under water
+GREEN on scanner
+Curiosities
+Atlas Stone	68750	Given by atlas
+Bought in market
+Gek Relic	26000	Found in cargo drops
+Vy'keen Effigy	25437.5	Reward for interacting with monolith
+
+
+Ship Enhancements[edit]
+
+
+Name	Recipe
+Weapons
+Cannon Damage Sigma	Iron x 50
+Thamium9 x 50
+Cannon Damage Tau	Iridium x 100
+Copper x 50
+Zinc x 50
+Cannon Damage Theta	Omegon x 100
+Gold x 50
+Zinc x 50
+Advanced Cooling Sigma	Thamium9 x 30
+Chrysonite x 30
+Iron x 50
+Advanced Cooling Tau	Thamium9 x 80
+Chrysonite x 70
+Iridium x 120
+Advanced Cooling Theta	Thamium9 x 200
+Chrysonite x 250
+Gravitino Ball x 10
+Accelerated Fire Sigma	Iron x 50
+Aluminium x 100
+Accelerated Fire Tau	Nickel x 100
+Platinum x 100
+Accelerated Fire Theta	Thamium9 x 300
+Iron x 300
+Dimensional Matrix x 3
+
+
+Health
+Deflection Enhancement Sigma	Carite Sheet x 6
+Heridium x 500
+Deflection Enhancement Tau	Titanium x 200
+Heridium x 250
+Iron x 300
+Deflection Enhancement Theta	Zinc x 300
+Platinum x 80
+Emeril x 200
+
+
+Hyperdrive
+Warp Reactor Sigma	Dynamic Resonator x 1
+Iridium x 200
+Copper x 400
+Warp Reactor Tau	Dynamic Resonator x 2
+Nickel x 600
+Aluminium x 800
+Warp reactor Theta	Dynamic Resonator x 3
+Gold x 1000
+Emeril x 1000
+Photonix Core	Chrysonite x 100
+Iron x 200
+Zinc x 50
+Pulse Jet Sigma	Chrysonite x 100
+Iron x 200
+Zinc x 50
+Pulse Jet Tau	Nickel x 100
+Thamium9 x 50
+Neautrino Module x 2
+
+Multi-tool[edit]
+
+Name	Recipe
+Laser
+Beam Coolant System Sigma	Iridium x 50
+Heridium x 20
+Beam Coolant System Tau	Iridium x 200
+Heridium x 100
+Beam Coolany System Theta	Aluminium x 200
+Heridium x 100
+Combat Amplifier Sigma	Titanium x 30
+Carbon x 30
+Combat Amplifier Tau	Platinum x 100
+Titanium x 50
+Chrysonite x 50
+Combat Amplifier Theta	Heridium x 400
+Iron x 200
+Radnox x 20
+Combat Amplifier Omega	Heridium x 400
+Iron x 200
+Gold x 100
+Beam Focus Sigma	Iron x 20
+Heridium x 20
+Plutonium x 25
+Beam Focus Tau	Plutonium x 50
+Chrysonite x 100
+Beam Focus Theta	Plutonium x 50
+Chrysonite x 200
+Platinum x 200
+Beam Intensifier Sigma	Titanium x 30
+Plutonium x 25
+Beam Intensifier Tau	Copper x 60
+Iron x 200
+Beam Intensifier Theta	Copper x 120
+Iron x 100
+Iridium x 100
+Railshot Adaptor	Aluminium x 100
+Copper x 50
+Iron x 200
+
+
+Projectile
+Boltcaster	Iron x 25
+Plutonium x 25
+Ricochet Sigma	Platinum x 100
+Iron x 200
+Heridium x 200
+Ricochet Tau	Platinum x 300
+Zinc x 150
+Microdensity Fabric x 1
+Ricochet Theta	Gold x 100
+Plutonium x 100
+Platinum x 100
+Boltcaster Clip Sigma	Plutonium x 50
+Titanium x 20
+Microdensity Fabric x 2
+Boltcaster Clip Tau	Plutonium x 50
+Zinc x 20
+Nickel x 10
+Boltcaster Clip Theta	Plutonium x 50
+Zinc x 50
+Nickel x 150
+Impact Damage Sigma	Iridium x 50
+Iron x 50
+Platinum x 100
+Impact Damage Tau	Iridium x 50
+Iron x 50
+Platinum x 100
+Impact Damage Theta	Iridium x 200
+Radnox x 80
+Platinum x 200
+Impact Damage Omega	Copper x 200
+Aluminium x 200
+Heridium x 400
+Homingbolt Adaptor	AquaSphere x 5
+Titanium x 200
+Plutonium x 200
+Rapidfire Sigma	Nickel x 50
+Iron x 20
+Rapidfire Tau	Titanium x 200
+Platinum x 100
+Aluminium x 100
+Rapidfire Theta	Aluminium x 100
+Platinum x 200
+Reload Accelerant Sigma	Iron x 20
+Heridium x 15
+Zinc x 10
+Reload Accelerant Tau	Chrysonite x 50
+Zinc x 100
+Plutonium x 50
+Reload Accelerant Theta	Calium x 50
+Zinc x 100
+Plutonium x 50
+Wideshot Adaptor	Copper x 40
+Heridium x 100
+Iron x 50
+Shortburst Adaptor	Copper x 60
+Heridium x 100
+Zinc x 20
+Recoil Stabiliser Sigma	Thamium9 x 100
+Titanium x 50
+Chrysonite x 50
+Recoil Stabiliser Tau	Thamium9 x 200
+Titanium x 100
+Chrysonite x 150
+Recoil Stabiliser Theta	Heridium x 250
+Zinc x 100
+Platinum x 150
+Boltcaster SM	Iridium x 50
+Iron x 50
+Platinum x 100
+
+
+Grenade
+Plasma Launcher	Plutonium x 30
+Heridium x 20
+Carbon x 15
+Rebound Grenades	Zinc x 10
+Platinum x 20
+Chrysonite x 15
+Rebound Grenades Tau	Heridium x 200
+Titanium x 200
+Chrysonite x 250
+Grenade Intensity Sigma	Thamium9 x 150
+Zinc x 20
+Heridium x 200
+Grenade Intensity Tau	Iron x 200
+Aluminium x 200
+Nickel x 200
+Grenade Intensity Theta	Neutrino Module x 4
+Aluminium x 200
+Nickel x 200
+Homing Grenade	Aluminium x 100
+Iron x 50
+Gold x 100
+Damage Radius	Zinc x 100
+Iron x 50
+Chrysonite x 150
+Damage Radius Tau	Plutonium x 200
+Emeril x 50
+Grenade Propulsion	Zinc x 10
+Platinum x 20
+Chrysonite x 15
+Grenade Propulsion Tau	Thamium9 x 150
+Zinc x 20
+Chrysonite x 150
+Scanner
+Scanner	Carbon x 50
+Rangeboost Sigma	Thamium9 x 30
+Platinum x 15
+Carbon x 30
+Rangeboost Tau	Thamium9 x 120
+Chrysonite x 120
+Plutonium x 200
+Analysis Visor	Iron x 50
+
+
+Exosuit Enhancements[edit]
+Name	Recipe
+Health
+Health Module Sigma	Iron x 50
+Plutonium x 50
+Zinc x 10
+Health Module Tau	Aluminium x 150
+Carbon x 250
+Thamium9 x 50
+Health Module Theta	Aluminium x 200
+Plutonium x 250
+Thamium9 x 300
+Shieldboost Sigma	Zinc x 15
+Platinum x 15
+Thamium9 x 15
+Shieldboost Tau	Zinc x 100
+Platinum x 100
+Gold x 50
+Shieldboost Theta	Chrysonite x 300
+Microdensity Fabric x 2
+Protection
+Thermic Layer Sigma	Iron x 50
+Carbon x 100
+Thermic Layer Tau	Zinc x 50
+Carbon x 100
+Microdensity Fabric x 1
+Thermic Layer Theta	Microdenisty x 2
+Electron Vapour x 1
+Gravitio Ball x 1
+Coolant Network Sigma	Iron x 50
+Carbon x 100
+Coolant Network Tau	Zinc x 50
+Carbon x 100
+Microdensity Fabric x 1
+Coolant Network Theta	Microdensity Fabric x 2
+Electron Vapour x 1
+Gravitino Ball x 1
+Radiation Deflector Sigma	Iron x 50
+Carbon x 100
+Radiation Deflector Tau	Zinc x 50
+Carbon x 100
+Microdensity Fabric x 1
+Radiation Deflector Theta	Microdenisty x 2
+Electron Vapour x 1
+Gravitino Ball x 1
+Toxin Suppressor Sigma	Iron x 50
+Carbon x 100
+Toxin Suppressor Tau	Zinc x 50
+Carbon x 100
+Microdensity Fabric x 1
+Toxin Suppressor Theta	Microdenisty Fabric x 2
+Electron Vapour x 1
+Gravitino Ball x 1
+Stamina
+
+
+Stamina Enhancement Sigma	Iron x 20
+Carbon x 20
+Stamina Enhancement Tau	Iron x 100
+Heridium x 150
+Plutonium x 50
+Stamina Enchanment Theta	Zinc x 150
+Heridium x 150
+Plutonium x 50
+Aeration Membrane Sigma	Iron x 50
+Carbon x 100
+Aeration Membrane Tau	Zinc x 50
+Carbon x 100
+Microdensity Fabric x 1
+Aeration Membrane Theta	Microdenisty Fabric x 2
+Electron Vapour x 1
+Gravitino Ball x 1
+
+
+Utilities
+Life Support Module Sigma	Plutonium x 50
+Platinum x 20
+Life Support Module Tau	Plutonium x 50
+Platinum x 150
+Jetpack Booster Sigma	Carite Sheet x 1
+Platinum x 15
+Zinc x 10
+Jetpack Booster Tau	Chrysonite x 150
+Titanium x 150
+Plutonium x 150
+Jetpack Booster Theta	Omegon x 50
+Chrysonite x 300
+Plutonium x 300

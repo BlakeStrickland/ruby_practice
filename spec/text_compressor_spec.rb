@@ -1,4 +1,5 @@
-require '../text_compressor.rb'
+# require 'text_compressor.rb'
+# require 'test/unit'
 
 describe TextCompressor do
 

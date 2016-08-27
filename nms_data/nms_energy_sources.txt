@@ -1,0 +1,15 @@
+Shielding Shard	343.8	Iron x 25
+
+Shielding Plate	687.5	Iron x 50
+
+Shielding Sheet	1,0311	Iron x 75
+
+Power Gel	171.9	Carbon x 25
+
+Power Canister	343.8	Carbon x 50
+
+Power Reservoir	515,6	Carbon x 75
+
+Unstable Plasma	27500	Thamium9 x 400 Plutonium x 200
+
+Warp Cell	46750	Thamium9 x 100 Antimatter x 1
